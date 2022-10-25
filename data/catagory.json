@@ -1,0 +1,32 @@
+[
+    {
+      "id": "01",
+      "image": "https://www.computerhope.com/jargon/h/html-head.jpg",
+      "name": "HTML"
+    },
+    {
+      "id": "02",
+      "image": "https://www.thatcompany.com/wp-content/uploads/2019/03/css-graphic-1.png",
+      "name": "CSS"
+    },
+    {
+      "id": "03",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKbVAEp7jgKYb3VsuNOEdTk-dPNJFe9vFk_81VAD1tRm0Y2Hf9krbXbBvJAloUI-ZnC8g&usqp=CAU",
+      "name": "Bootstrap"
+    },
+    {
+      "id": "04",
+      "image": "https://static.javatpoint.com/images/javascript/javascript_logo.png",
+      "name": "Java Script"
+    },
+    {
+      "id": "05",
+      "image": "https://www.javatpoint.com/js/nodejs/images/node-js-tutorial.png",
+      "name": "Node js"
+    },
+    {
+      "id": "06",
+      "image": "https://examplecode.org/wp-content/uploads/2022/05/reactjs.png",
+      "name": "React"
+    }
+  ]
