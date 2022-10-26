@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 488
+    },
+    {
+        "id": "2",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 488
+    },
+    {
+        "id": "3",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 488
+    },
+    {
+        "id": "4",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 488
+    },
+    {
+        "id": "5",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 488
+    },
+    {
+        "id": "6",
+        "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 488
+    }
+]
