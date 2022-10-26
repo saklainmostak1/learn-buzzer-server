@@ -24,12 +24,7 @@ app.get('/catagory/:id', (req, res) =>{
 app.get('/topic', (req, res) =>{
     res.send(topic)
 })
-app.get('/topic/:id', (req, res) =>{
-    console.log(req.params)
-    const id = req.params.id;
-    const selectedTopic = topic.find(tp => tp._id === id)
-    res.send(selectedTopic)
-})
+
 
 app.listen(port, () =>{
     console.log('Dragon Nes Server running on port', port);
