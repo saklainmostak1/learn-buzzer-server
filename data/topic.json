@@ -8,10 +8,14 @@
       "category_id": "01",
       "name": "Learning HTML",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png",
-      "discription": "HTML (HyperText Markup Language) is the most basic building block of the Web. It defines the meaning and structure of web content. Other technologies besides HTML are generally used to describe a web page's appearance/presentation (CSS) or functionality/behavior (JavaScript). Hypertext refers to links that connect web pages to one another, either within a single website or between websites. Links are a fundamental aspect of the Web. By uploading content to the Internet and linking it to pages created by other people, you become an active participant in the World Wide Web."
+      "discription": "HTML (HyperText Markup Language) is the most basic building block of the Web. It defines the meaning and structure of web content. Other technologies besides HTML are generally used to describe a web page's appearance/presentation (CSS) or functionality/behavior (JavaScript). Hypertext refers to links that connect web pages to one another, either within a single website or between websites. Links are a fundamental aspect of the Web. By uploading content to the Internet and linking it to pages created by other people, you become an active participant in the World Wide Web.",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 500,
+      "premium_id": "11"
+      
     },
     {
-      "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
       "others_info": {
         "is_todays_pick": false,
         "is_trending": true
@@ -19,10 +23,13 @@
       "category_id": "02",
       "name": "Learning CSS",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png",
-      "discription": "Cascading Style Sheets (CSS) is a stylesheet language used to describe the presentation of a document written in HTML or XML (including XML dialects such as SVG, MathML or XHTML). CSS describes how elements should be rendered on screen, on paper, in speech, or on other media. CSS is among the core languages of the open web and is standardized across Web browsers according to W3C specifications. Previously, the development of various parts of CSS specification was done synchronously, which allowed the versioning of the latest recommendations. You might have heard about CSS1, CSS2.1, or even CSS3. There will never be a CSS3 or a CSS4; rather, everything is now CSS without a version number"
+      "discription": "Cascading Style Sheets (CSS) is a stylesheet language used to describe the presentation of a document written in HTML or XML (including XML dialects such as SVG, MathML or XHTML). CSS describes how elements should be rendered on screen, on paper, in speech, or on other media. CSS is among the core languages of the open web and is standardized across Web browsers according to W3C specifications. Previously, the development of various parts of CSS specification was done synchronously, which allowed the versioning of the latest recommendations. You might have heard about CSS1, CSS2.1, or even CSS3. There will never be a CSS3 or a CSS4; rather, everything is now CSS without a version number",
+      "rating": { "number": 4.4, "badge": "Excellent" },
+      "total_view": 550,
+      "premium_id": "22"
     },
     {
-      "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+      "_id": "f69a695f037cd9484cecaea37ca71011",
       "others_info": {
         "is_todays_pick": false,
         "is_trending": true
@@ -31,9 +38,13 @@
       "name": "Learning Bootstrap",
       "image": "https://static.javatpoint.com/bootstrappages/images/bootstrap-tutorial.png",
       "discription": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly $3 billion in new U.S. military aid for Kyiv as Ukraine marked its independence day six months after Russia invaded the country.'The United States of America is committed to supporting the people of Ukraine as they continue the fight to defend their sovereignty. As part of that commitment, I am proud to announce our biggest tranche of security assistance to date: approximately $2."
+      ,"rating": { "number": 4.4, "badge": "Excellent" },
+      "total_view": 600,
+      "premium_id": "33",
+      "data": {"_name": "nayan" }
     },
     {
-      "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+      "_id": "f69a695f037cd9484cecaea37ca71012",
       "others_info": {
         "is_todays_pick": false,
         "is_trending": true
@@ -41,10 +52,13 @@
       "category_id": "04",
       "name": "Learning Java Script",
       "image": "https://static.javatpoint.com/images/javascript/javascript_logo.png",
-      "discription": "JavaScript (often shortened to JS) is a lightweight, interpreted, object-oriented language with first-class functions, and is best known as the scripting language for Web pages, but it's used in many non-browser environments as well. It is a prototype-based, multi-paradigm scripting language that is dynamic, and supports object-oriented, imperative, and functional programming styles.JavaScript runs on the client side of the web, which can be used to design / program how the web pages behave on the occurrence of an event. JavaScript is an easy to learn and also powerful scripting language, widely used for controlling web page behavior.Contrary to popular misconception, JavaScript is not Interpreted Java. In a nutshell, JavaScript is a dynamic scripting language supporting prototype based object construction. The basic syntax is intentionally similar to both Java and C++ to reduce the number of new concepts required to learn the language. Language constructs, such as if statements, for and while loops, and switch and try ... catch blocks function the same as in these languages (or nearly so)."
+      "discription": "JavaScript (often shortened to JS) is a lightweight, interpreted, object-oriented language with first-class functions, and is best known as the scripting language for Web pages, but it's used in many non-browser environments as well. It is a prototype-based, multi-paradigm scripting language that is dynamic, and supports object-oriented, imperative, and functional programming styles.JavaScript runs on the client side of the web, which can be used to design / program how the web pages behave on the occurrence of an event. JavaScript is an easy to learn and also powerful scripting language, widely used for controlling web page behavior.Contrary to popular misconception, JavaScript is not Interpreted Java. In a nutshell, JavaScript is a dynamic scripting language supporting prototype based object construction. The basic syntax is intentionally similar to both Java and C++ to reduce the number of new concepts required to learn the language. Language constructs, such as if statements, for and while loops, and switch and try ... catch blocks function the same as in these languages (or nearly so).",
+      "rating": { "number": 4.2, "badge": "Excellent" },
+      "total_view": 650,
+      "premium_id": "44"
     },
     {
-      "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+      "_id": "11468ed61aee84de492a8b04158a22f9",
       "others_info": {
         "is_todays_pick": false,
         "is_trending": true
@@ -52,10 +66,13 @@
       "category_id": "05",
       "name": "Learning Node JS",
       "image": "https://www.javatpoint.com/js/nodejs/images/node-js-tutorial.png",
-      "discription": "As an asynchronous event-driven JavaScript runtime, Node.js is designed to build scalable network applications. In the following (hello world) example, many connections can be handled concurrently. Upon each connection, the callback is fired, but if there is no work to be done, Node.js will sleep. Node.js is an open source, cross-platform runtime environment for developing server-side and networking applications. Node.js applications are written in JavaScript, and can be run within the Node.js runtime on OS X, Microsoft Windows, and Linux. Node.js also provides a rich library of various JavaScript modules which simplifies the development of web applications using Node.js to a great extent."
+      "discription": "As an asynchronous event-driven JavaScript runtime, Node.js is designed to build scalable network applications. In the following (hello world) example, many connections can be handled concurrently. Upon each connection, the callback is fired, but if there is no work to be done, Node.js will sleep. Node.js is an open source, cross-platform runtime environment for developing server-side and networking applications. Node.js applications are written in JavaScript, and can be run within the Node.js runtime on OS X, Microsoft Windows, and Linux. Node.js also provides a rich library of various JavaScript modules which simplifies the development of web applications using Node.js to a great extent.",
+      "rating": { "number": 4.7, "badge": "Excellent" },
+      "total_view": 700,
+      "premium_id": "55"
     },
     {
-      "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+      "_id": "11468ed61aee84de492a8b04158a22f0",
       "others_info": {
         "is_todays_pick": false,
         "is_trending": true
@@ -63,6 +80,11 @@
       "category_id": "06",
       "name": "Learning React JS",
       "image": "https://examplecode.org/wp-content/uploads/2022/05/reactjs.png",
-      "discription": "React.js, more commonly known as React, is a free, open-source JavaScript library. It works best to build user interfaces by combining sections of code (components) into full websites. Originally built by Facebook, Meta and the open-source community now maintain it. One of the good things about React is that you can use it as much or as little as you want! For example, you can build your entire site in React or just use one single React component on one page.React.js is built using JSX – A combination of JavaScript and XML. Elements are created using JSX, then use JavaScript to render them on your site. While React has a steep learning curve for a junior developer, it’s quickly shaping into one of the most popular and in-demand JavaScript libraries.React is considered a JavaScript library rather than a framework, whereas the other options we’ll consider today are considered frameworks. It helps to think of a library as a tool that developers could use in any project and a framework as a whole design."
+      "discription": "React.js, more commonly known as React, is a free, open-source JavaScript library. It works best to build user interfaces by combining sections of code (components) into full websites. Originally built by Facebook, Meta and the open-source community now maintain it. One of the good things about React is that you can use it as much or as little as you want! For example, you can build your entire site in React or just use one single React component on one page.React.js is built using JSX – A combination of JavaScript and XML. Elements are created using JSX, then use JavaScript to render them on your site. While React has a steep learning curve for a junior developer, it’s quickly shaping into one of the most popular and in-demand JavaScript libraries.React is considered a JavaScript library rather than a framework, whereas the other options we’ll consider today are considered frameworks. It helps to think of a library as a tool that developers could use in any project and a framework as a whole design.",
+      "rating": { "number": 4.6, "badge": "Excellent" },
+      "total_view": 750,
+      "premium_id": "66",
+      "other": {"name":""}
+      
     }
 ]
